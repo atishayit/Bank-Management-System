@@ -1,5 +1,0 @@
-This is a fully useable Bank Management System made by Atishay Jain using C++.
-
-****ACCESS CODE****
-
-ATIBANK
